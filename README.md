@@ -13,19 +13,19 @@ Este repositório serve para listar os meus principais repósitorios em Mecânic
 
 * Desenvolvidos na UFRJ/COPPE
 ---
-1. [SFR3D-1.0](https://github.com/HenriqueCCdA/SFR3D-1.0) - Tese de doutorado
+1. [SFR3D-1.0](https://github.com/HenriqueCCdA/SFR3D-1.0) - Tese de doutorado (privado no momento)
 2. [fortranFVCell](https://github.com/HenriqueCCdA/fortranFVCell) - Tese de mestrado
 3. [MefC](https://github.com/HenriqueCCdA/MefC) - Iniciação científica
 
 ---
 * Pessoal
 
-1.  [fvTransporte1D](https://github.com/HenriqueCCdA/fvTransporte1D)  
-2.  [Solver](https://github.com/HenriqueCCdA/Solvers)
-3.  [Autovalores](https://github.com/HenriqueCCdA/Autovalores)
-4.  [HccaBlas](https://github.com/HenriqueCCdA/HccaBlas)
-5.  [pcg](https://github.com/HenriqueCCdA/pcg)
-6.  [Heat1D](https://github.com/HenriqueCCdA/Heat1D)
+1.  [fvTransporte1D: ](https://github.com/HenriqueCCdA/fvTransporte1D) - Equação de transporde 1D em volume finitos 
+2.  [Solver:](https://github.com/HenriqueCCdA/Solvers) - Alguns solvers diteros e iterativos. 
+3.  [Autovalores:](https://github.com/HenriqueCCdA/Autovalores) - Cálculo de autovalores e autovetores. 
+4.  [HccaBlas:](https://github.com/HenriqueCCdA/HccaBlas) - Implementação de algumas funções Blas usando CUDA.
+5.  [pcg:](https://github.com/HenriqueCCdA/pcg) - Método dos gradientes conjugados. 
+6.  [Heat1D:](https://github.com/HenriqueCCdA/Heat1D) - Equação do calor 1D em volume finitos. 
 
 ---
 
