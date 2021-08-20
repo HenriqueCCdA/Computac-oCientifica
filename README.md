@@ -5,13 +5,13 @@
 # Mecânica Computacional 
 ---
 
-Este repositório serve para listar os meus principais repósitorios em Mecânica Computacionals.
+Este repositório serve para listar os meus principais repósitorios em **Mecânica Computacionals**. No tópico **Desenvolvidos na PEC/COPPE/UFRJ** estão alguns dos meus repósitorios que eu desenvolvi na **PEC/COPPE/UFRJ** como aluno/pesquisador. Infelizmente a maioria dos softwares que participe do desenvolvimento como aluno/pesquisador na **PEC/COPPE/UFRJ** estão em repositórios privados. No tópico **Pessoal** estão alguns repósitorios onde eu profundei meus estudos em diversas areas da **Mecânica Computacionals**.
 
 ---
 # Lista de Repositórios
 ---
 
-* Desenvolvidos na UFRJ/COPPE
+* Desenvolvidos na **PEC/COPPE/UFRJ**
 ---
 1. [SFR3D-1.0](https://github.com/HenriqueCCdA/SFR3D-1.0) - Tese de doutorado (privado no momento)
 2. [fortranFVCell](https://github.com/HenriqueCCdA/fortranFVCell) - Tese de mestrado
