@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/Autor-Henrique%20C%20C%20de%20Andrade-blue)
 
 
-# Mecânica Computacional (Computação científica)
+# Computação científica
 ---
 
 Este repositório serve para listar os meus principais repósitorios em **Mecânica Computacional**. No tópico **Desenvolvidos na PEC/COPPE/UFRJ** estão alguns dos meus repósitorios que eu desenvolvi na **PEC/COPPE/UFRJ** como aluno/pesquisador. Infelizmente a maioria dos softwares que participe do desenvolvimento como aluno/pesquisador na **PEC/COPPE/UFRJ** estão em repositórios privados. No tópico **Pessoal** estão alguns repósitorios onde eu profundei meus estudos em diversas areas da **Mecânica Computacional**.
